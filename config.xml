@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.trainlevel.app"
+        versionCode = "0.0.8" 
+        version     = "0.0.8" >
+
+    <name>Trainlevel</name>
+
+    <description>
+        APP FOR TRAINER
+    </description>
+
+    <author href="http://domachine.de" email="info@domachine.de">
+        domachine
+    </author>
+
+</widget>
